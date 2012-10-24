@@ -23,7 +23,7 @@ INSERT INTO `#__links` (`id`, `url`, `rewrite`, `img`, `color`, `scale`) VALUES
 (9, 'https://github.com', 1, 'github.png', '#DC572E', 0),
 (10, 'http://www.instantcms.ru', 1, 'instantcms.png', '#0A5AC3', 0),
 (11, 'http://www.skype.com', 1, 'skype.png', '#00A500', 0),
-(12, 'http://lovenotice.ru', 1, 'lovenotice.png', '#BE1E4B', 0);
+(12, 'http://lovenotice.ru', 0, 'lovenotice.png', '#BE1E4B', 0);
 
 
 DROP TABLE IF EXISTS `#__links_name`;
