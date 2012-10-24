@@ -1,0 +1,199 @@
+.links{
+	position: relative;
+	width:880px;
+	height:530px;
+	padding:10px;
+	background: #250040;
+	color: #fff;
+}
+
+.links_wrapper{
+	width:975px;
+	height:480px;
+	position: absolute;
+	top:60px;
+}
+
+.links_name{
+	font-family: Century Gothic;
+	font-size: 38px;
+	color:#fff;
+	position: absolute;
+	top:0px
+}
+
+.links_name{
+	left:20px
+}
+
+.links_nastr{
+	width:16px;
+	height:16px;
+	position: absolute;
+	right:10px;
+	top: 25px;
+}
+
+.links_form{
+	position:absolute;
+	left:300px;
+	top:200px;
+}
+
+.links_input{
+	width:565px;
+	height:30px;
+	background:#fff;
+	border:2px #fff solid;
+	color:#333;
+	font-size: 16px;
+	line-height:24px;
+	padding: 0px 0px 0px 10px;
+}
+
+.links_input:focus{
+	border:2px #00aef0 solid;
+	outline: none;
+}
+
+.links_wrapper div{
+	text-align: center;
+	border:1px solid #250040;
+}
+
+.links_wrapper div:hover{
+	border:1px solid #fff;
+}
+
+.links_a{
+	display: block;
+	width:100%;
+	height:100%;
+}
+
+.links_edit{
+	display: block;
+	width: 16px;
+	height: 16px;
+	padding: 5px;
+	float: right;
+	background:url('/components/links/images/edit.png') no-repeat center;
+}
+
+.links_span{
+	width: 250px;
+	font-size: 14px;
+}
+
+.thumb1{
+	width:210px;
+	height:90px;
+	position: absolute;
+	left:0px;
+	top:0px;
+}
+
+.thumb2{
+	width:210px;
+	height:90px;
+	position: absolute;
+	left:0px;
+	top:100px;
+}
+
+.thumb3{
+	width:130px;
+	height:60px;
+	position: absolute;
+	left:220px;
+	top:0px;
+}
+
+.thumb4{
+	width:130px;
+	height:60px;
+	position: absolute;
+	left:360px;
+	top:0px;
+}
+
+.thumb5{
+	width:270px;
+	height:120px;
+	position: absolute;
+	left:220px;
+	top:70px;
+}
+
+.thumb6{
+	width:380px;
+	height:190px;
+	position: absolute;
+	left:500px;
+	top:0px;
+}
+
+.thumb7{
+	width:290px;
+	height:150px;
+	position: absolute;
+	left:0px;
+	top:200px;
+}
+
+.thumb8{
+	width:140px;
+	height:70px;
+	position: absolute;
+	left:0px;
+	top:360px;
+}
+
+.thumb9{
+	width:140px;
+	height:70px;
+	position: absolute;
+	left:150px;
+	top:360px;
+}
+
+.thumb10{
+	width:360px;
+	height:190px;
+	position: absolute;
+	left:300px;
+	top:240px;
+}
+
+.thumb11{
+	width:210px;
+	height:90px;
+	position: absolute;
+	left:670px;
+	top:240px;
+}
+
+.thumb12{
+	width:210px;
+	height:90px;
+	position: absolute;
+	left:670px;
+	top:340px;
+}
+
+.links_vkladka {
+	color:#fff;
+	background:#f09e2f;
+	line-height:41px;
+	padding: 10px 10px 10px 10px;
+	position:relative;
+	text-decoration:none;
+	font-family: Century Gothic;
+	font-size: 18px;
+	font-weight:600;
+}
+
+.links_vkladka:hover {
+	background:#8cbd20;
+	color: #fff;
+}
